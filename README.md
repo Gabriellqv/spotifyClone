@@ -16,3 +16,12 @@ Este projeto é um **clone do Spotify** desenvolvido com **React** para demonstr
 -   **React Router**: Para navegação entre as páginas do aplicativo.
 -   **React Context API**: Para gerenciamento global de estado.
 -   **PropTypes**: Para validação de tipos e garantir que as propriedades estejam corretas.
+
+Você pode acessar a versão ao vivo do projeto hospedada na **Vercel** clicando no link abaixo:
+
+## Link para o Projeto
+
+Você pode acessar o projeto clicando no link abaixo:
+
+[**Clique aqui**](https://spotify-clone-ten-smoky.vercel.app)
+
